@@ -1,1 +1,1 @@
-echo "Hi $NAME"
+echo "Hi ${name}"
